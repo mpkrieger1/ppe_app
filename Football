@@ -1,0 +1,387 @@
+"bowlGames": ["Rose Bowl", "Peach Bowl", "Sugar Bowl", "Cotton Bowl", "Orange Bowl", "Fiesta Bowl", "Gator Bowl", "Holiday Bowl", "Belk Bowl", "Alamo Bowl"],
+	"conferences": [{
+		"confName": "HOA",
+		"confFullName": "Heart of America",
+		"confTeams": [{
+			"name": "Benedict",
+			"abbreviation": "BEN",
+			"prestige": "95",
+			"state": "Kansas",
+			"rival": "BAK"
+		}, {
+			"name": "Baker",
+			"abbreviation": "BAK",
+			"prestige": "91",
+			"state": "Kansas",
+			"rival": "BEN"
+		}, {
+			"name": "Grand View",
+			"abbreviation": "GVU",
+			"prestige": "88",
+			"state": "Iowa",
+			"rival": "WPU"
+		}, {
+			"name": "Evangel",
+			"abbreviation": "EVN",
+			"prestige": "85",
+			"state": "Missouri",
+			"rival": "CSU"
+		}, {
+			"name": "Culver-Stockton",
+			"abbreviation": "CSU",
+			"prestige": "70",
+			"state": "Missouri",
+			"rival": "EVN"
+		}, {
+			"name": "William Penn",
+			"abbreviation": "WPU",
+			"prestige": "70",
+			"state": "Iowa",
+			"rival": "GVU"
+		}, {
+			"name": "Peru State",
+			"abbreviation": "PSU",
+			"prestige": "60",
+			"state": "Nebraska",
+			"rival": "GRA"
+		}, {
+			"name": "Central Methodist",
+			"abbreviation": "CMU",
+			"prestige": "62",
+			"state": "Missouri",
+			"rival": "MOV"
+		}, {
+			"name": "Graceland",
+			"abbreviation": "GRA",
+			"prestige": "50",
+			"state": "Iowa",
+			"rival": "PSU"
+		}, {
+			"name": "Missouri Valley",
+			"abbreviation": "MOV",
+			"prestige": "51",
+			"state": "Missouri",
+			"rival": "CMU"
+		}]
+	}, {
+		"confName": "GPAC",
+		"confFullName": "Great Plains Athletic",
+		"confTeams": [{
+			"name": "Briar Cliff",
+			"abbreviation": "BCU",
+			"prestige": "70",
+			"state": "Iowa",
+			"rival": "NWC"
+		}, {
+			"name": "Concorida",
+			"abbreviation": "CU",
+			"prestige": "57",
+			"state": "Nebraska",
+			"rival": "MID"
+		}, {
+			"name": "Dakota Wesleyan",
+			"abbreviation": "DWU",
+			"prestige": "49",
+			"state": "South Dakota",
+			"rival": "UJ"
+		}, {
+			"name": "Doane",
+			"abbreviation": "DU",
+			"prestige": "77",
+			"state": "Nebraska",
+			"rival": "HSU"
+		}, {
+			"name": "Hastings",
+			"abbreviation": "HSU",
+			"prestige": "62",
+			"state": "Nebraska",
+			"rival": "DU"
+		}, {
+			"name": "Jamestown",
+			"abbreviation": "UJ",
+			"prestige": "55",
+			"state": "North Dakota",
+			"rival": "DWU"
+		}, {
+			"name": "Midland",
+			"abbreviation": "MID",
+			"prestige": "78",
+			"state": "Nebraska",
+			"rival": "CU"
+		}, {
+			"name": "Morningside",
+			"abbreviation": "MU",
+			"prestige": "96",
+			"state": "Iowa",
+			"rival": "MMC"
+		}, {
+			"name": "Mount Marty",
+			"abbreviation": "MMC",
+			"prestige": "40",
+			"state": "South Dakota",
+			"rival": "MU"
+		}, {
+			"name": "Northwestern",
+			"abbreviation": "NWC",
+			"prestige": "87",
+			"state": "Iowa",
+			"rival": "BCU"
+		}]
+	}, {
+		"confName": "X",
+		"confFullName": "Crossroads League",
+		"confTeams": [{
+			"name": "Bethel College",
+			"abbreviation": "BC",
+			"prestige": "95",
+			"state": "Indiana",
+			"rival": "GC"
+		}, {
+			"name": "Goshen College",
+			"abbreviation": "GC",
+			"prestige": "85",
+			"state": "Indiana",
+			"rival": "BC"
+		}, {
+			"name": "Grace College",
+			"abbreviation": "CRC",
+			"prestige": "85",
+			"state": "Indiana",
+			"rival": "HU"
+		}, {
+			"name": "Huntington",
+			"abbreviation": "HU",
+			"prestige": "60",
+			"state": "Indiana",
+			"rival": "CRC"
+		}, {
+			"name": "Indiana Wesleyan",
+			"abbreviation": "IWU",
+			"prestige": "70",
+			"state": "Indiana",
+			"rival": "MU"
+		}, {
+			"name": "Marian",
+			"abbreviation": "MU",
+			"prestige": "60",
+			"state": "Indiana",
+			"rival": "IWU"
+		}, {
+			"name": "Mt. Vernon",
+			"abbreviation": "MVU",
+			"prestige": "65",
+			"state": "Ohio",
+			"rival": "SAU"
+		}, {
+			"name": "St. Francis",
+			"abbreviation": "USF",
+			"prestige": "60",
+			"state": "Indiana",
+			"rival": "TU"
+		}, {
+			"name": "Spring Arbor",
+			"abbreviation": "SAU",
+			"prestige": "60",
+			"state": "Michigan",
+			"rival": "MVU"
+		}, {
+			"name": "Taylor",
+			"abbreviation": "TU",
+			"prestige": "75",
+			"state": "Indiana",
+			"rival": "USF"
+		}]
+	}, {
+		"confName": "SAC",
+		"confFullName": "Sooner Athletic Conference",
+		"confTeams": [{
+			"name": "Langston",
+			"abbreviation": "LANG",
+			"prestige": "90",
+			"state": "Oklahoma",
+			"rival": "PAN"
+		}, {
+			"name": "Panhandle St.",
+			"abbreviation": "PAN",
+			"prestige": "85",
+			"state": "Oklahoma",
+			"rival": "PAN"
+		}, {
+			"name": "Arizona Christian",
+			"abbreviation": "ACC",
+			"prestige": "60",
+			"state": "Arizona",
+			"rival": "OTT"
+		}, {
+			"name": "Ottawa",
+			"abbreviation": "OTT",
+			"prestige": "80",
+			"state": "Arizona",
+			"rival": "ACC"
+		}, {
+			"name": "SW Assembly of God",
+			"abbreviation": "SWAG",
+			"prestige": "65",
+			"state": "Texas",
+			"rival": "WBU"
+		}, {
+			"name": "Wayland Baptist",
+			"abbreviation": "WBU",
+			"prestige": "75",
+			"state": "Texas",
+			"rival": "SWAG"
+		}, {
+			"name": "Lyon",
+			"abbreviation": "LYON",
+			"prestige": "75",
+			"state": "Arkansas",
+			"rival": "TWU"
+		}, {
+			"name": "Texas Wesleyan",
+			"abbreviation": "TWU",
+			"prestige": "70",
+			"state": "Texas",
+			"rival": "LYON"
+		}, {
+			"name": "Texas College",
+			"abbreviation": "TXC",
+			"prestige": "50",
+			"state": "Texas",
+			"rival": "HIGH"
+		}, {
+			"name": "New Mexico Highlands",
+			"abbreviation": "HIGH",
+			"prestige": "57",
+			"state": "New Mexico",
+			"rival": "TXC"
+		}]
+	}, {
+		"confName": "MSC",
+		"confFullName": "Mid South",
+		"confTeams": [{
+			"name": "Cumberland",
+			"abbreviation": "CUMB",
+			"prestige": "85",
+			"state": "Kentucky",
+			"rival": "REIN"
+		}, {
+			"name": "Reinhardt",
+			"abbreviation": "REIN",
+			"prestige": "80",
+			"state": "Kentucky",
+			"rival": "CUMB"
+		}, {
+			"name": "Georgetown",
+			"abbreviation": "GEOR",
+			"prestige": "80",
+			"state": "Kentucky",
+			"rival": "SEF"
+		}, {
+			"name": "SE Florida",
+			"abbreviation": "SEF",
+			"prestige": "78",
+			"state": "Florida",
+			"rival": "GEOR"
+		}, {
+			"name": "Cincinnati Christian",
+			"abbreviation": "CIN",
+			"prestige": "40",
+			"state": "Ohio",
+			"rival": "KCU"
+		}, {
+			"name": "Kentucky Christian",
+			"abbreviation": "KCU",
+			"prestige": "45",
+			"state": "Kentucky",
+			"rival": "CIN"
+		}, {
+			"name": "Faulkner",
+			"abbreviation": "FAUK",
+			"prestige": "70",
+			"state": "Tennessee",
+			"rival": "EWU"
+		}, {
+			"name": "Edward Waters",
+			"abbreviation": "EWU,
+			"prestige": "60",
+			"state": "Alabama",
+			"rival": "FAUK"
+		}, {
+			"name": "Bluefield",
+			"abbreviation": "BLUE",
+			"prestige": "60",
+			"state": "Tennessee",
+			"rival": "PIKE"
+		}, {
+			"name": "Pikeville",
+			"abbreviation": "PIKE",
+			"prestige": "65",
+			"state": "Mississippi",
+			"rival": "BLUE"
+		}]
+	}, {
+		"confName": "RM",
+		"confFullName": "Rocky Mountain",
+		"confTeams": [{
+			"name": "CSU-Pueblo",
+			"abbreviation": "PUEB",
+			"prestige": "94",
+			"state": "Colorado",
+			"rival": "MINES"
+		}, {
+			"name": "Colorado Mines",
+			"abbreviation": "MINES",
+			"prestige": "92",
+			"state": "Colorado",
+			"rival": "PUEB"
+		}, {
+			"name": "Chadron St.",
+			"abbreviation": "CHA",
+			"prestige": "80",
+			"state": "Nebraska",
+			"rival": "DIX"
+		}, {
+			"name": "Dixie State",
+			"abbreviation": "DIX",
+			"prestige": "76",
+			"state": "Wyoming",
+			"rival": "CHA"
+		}, {
+			"name": "Colorado Mesa",
+			"abbreviation": "MESA",
+			"prestige": "60",
+			"state": "Colorado",
+			"rival": "ADDAM"
+		}, {
+			"name": "Adams St.",
+			"abbreviation": "ADAM",
+			"prestige": "58",
+			"state": "Colorado",
+			"rival": "MESA"
+		}, {
+			"name": "Black Hills St.",
+			"abbreviation": "BHS",
+			"prestige": "65",
+			"state": "South Dakota",
+			"rival": "FLU"
+		}, {
+			"name": "Fort Lewis",
+			"abbreviation": "FLU",
+			"prestige": "75",
+			"state": "Colorado",
+			"rival": "FLU"
+		}, {
+			"name": "Western St.",
+			"abbreviation": "WEST",
+			"prestige": "58",
+			"state": "Utah",
+			"rival": "BYU"
+		}, {
+			"name": "BYU-Idaho",
+			"abbreviation": "WEST",
+			"prestige": "40",
+			"state": "Idaho",
+			"rival": "BYU"
+		}]
+	}]
+}
